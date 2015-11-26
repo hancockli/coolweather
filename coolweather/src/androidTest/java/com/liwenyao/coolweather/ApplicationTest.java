@@ -1,4 +1,4 @@
-package com.jd.crowdsource.coolweather;
+package com.liwenyao.coolweather;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

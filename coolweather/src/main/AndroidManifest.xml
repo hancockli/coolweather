@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jd.crowdsource.coolweather">
+    package="com.liwenyao.coolweather">
 
     <application
         android:allowBackup="true"
